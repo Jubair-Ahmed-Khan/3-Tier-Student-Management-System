@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\bin\Debug\net8.0\STMS.Persistence.deps.json
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\bin\Debug\net8.0\STMS.Persistence.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\bin\Debug\net8.0\STMS.Persistence.pdb
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.AssemblyInfo.cs
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\refint\STMS.Persistence.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\STMS.Persistence.pdb
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Persistence\obj\Debug\net8.0\ref\STMS.Persistence.dll

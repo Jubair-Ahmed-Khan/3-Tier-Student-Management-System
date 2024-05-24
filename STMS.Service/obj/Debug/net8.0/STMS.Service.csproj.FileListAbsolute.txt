@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\bin\Debug\net8.0\STMS.Service.deps.json
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\bin\Debug\net8.0\STMS.Service.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\bin\Debug\net8.0\STMS.Service.pdb
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\bin\Debug\net8.0\STMS.Persistence.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\bin\Debug\net8.0\STMS.Persistence.pdb
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Ser.BA754820.Up2Date
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\refint\STMS.Service.dll
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\STMS.Service.pdb
+C:\Users\User\Desktop\3-Tier-Student-ManageMent-System\3-Tier-Student-Management-System\STMS.Service\obj\Debug\net8.0\ref\STMS.Service.dll
